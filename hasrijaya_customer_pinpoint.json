@@ -1,12 +1,12 @@
 [
   { "name": "Fenny", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.378019%2C106.707530" },
-  { "name": "KK Store", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.385347%2C106.685025" },
-  { "name": "Rizal", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.385688%2C106.685063" },
+  { "name": "KK Store", "note": "Griya Indah Serpong GIS", "link": "https://www.google.com/maps/search/?api=1&query=-6.385347%2C106.685025" },
+  { "name": "Rizal", "note": "Griya Indah Serpong GIS", "link": "https://www.google.com/maps/search/?api=1&query=-6.385688%2C106.685063" },
   { "name": "Sinar 99", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.372900%2C106.725108" },
   { "name": "Dinar", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.383438%2C106.686972" },
   { "name": "Ananda Jaya", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.379700%2C106.726468" },
   { "name": "Warung Batak Asril", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.403944%2C106.727929" },
-  { "name": "Diah 1", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.386287%2C106.698176" },
+  { "name": "Diah 1", "note": "Di seberang masjid", "link": "https://www.google.com/maps/search/?api=1&query=-6.386287%2C106.698176" },
   { "name": "Diah 2", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.384752%2C106.696812" },
   { "name": "Anggun", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.379747%2C106.717758" },
   { "name": "Yanto Padurenan", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.401187%2C106.714695" },
@@ -18,7 +18,7 @@
 { "name": "Nur Poncol", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.409465%2C106.717898" },
 { "name": "Berkah", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.363014%2C106.715990" },
 { "name": "Panusunan", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.360373%2C106.709884" },
-{ "name": "Chinhai", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.390214%2C106.709676" },
+{ "name": "Chinhai", "note": "(Cinhai, Cinhay)", "link": "https://www.google.com/maps/search/?api=1&query=-6.390214%2C106.709676" },
 { "name": "Pak Tony", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.385472%2C106.717655" },
 { "name": "Joko", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.374337%2C106.705777" },
 { "name": "Aliyan", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.382905%2C106.712646" },
@@ -33,5 +33,8 @@
 { "name": "Irna Pabuaran", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.375312%2C106.669813" },
 { "name": "Mama Jana Rawakalong", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.377250%2C106.708972" },
 { "name": "Amru", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.407194%2C106.718944" },
-{ "name": "Ali Majid", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.459942%2C106.730223" }
+{ "name": "Ali Majid", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.459942%2C106.730223" },
+{ "name": "Ida", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.377549%2C106.708379" },
+{ "name": "Matondang Curug", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.3972%2C106.721038" },
+{ "name": "Matondang Curug", "note": "", "link": "https://www.google.com/maps/search/?api=1&query=-6.42104762%C106.7526964" }
 ]

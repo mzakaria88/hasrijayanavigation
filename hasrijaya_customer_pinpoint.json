@@ -79,7 +79,7 @@
   },
   {
     "name": "Iin Mardia",
-    "note": "(Ilin Mardiana",
+    "note": "(Ilin Mardiana)",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.367162%2C106.712700",
     "distance": "2.9"
   },
@@ -231,13 +231,13 @@
     "name": "Herudin Toko Bang Ucok",
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.4066979%2C106.6857226",
-    "distance": ""
+    "distance": "6.9"
   },
   {
     "name": "Sembako 44",
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.4204868%2C106.7259681",
-    "distance": ""
+    "distance": "6"
   },
   {
     "name": "SC Makmur",
@@ -249,7 +249,7 @@
     "name": "Ucok Nst",
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3900415,106.7365951",
-    "distance": ""
+    "distance": "10"
   },
   {
     "name": "03Sakana",
@@ -261,13 +261,13 @@
     "name": "AZfia Palugada",
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3842669%2C106.7270518",
-    "distance": ""
+    "distance": "5.6"
   },
   {
     "name": "Ros Tukang Sayur",
     "note": "Ibu Ross",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3709499,106.6940116",
-    "distance": ""
+    "distance": "2.5"
   },
   {
     "name": "Jaya Sejahtera",
@@ -285,36 +285,36 @@
     "name": "Cuan Plastik",
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.4370943,106.6681799",
-    "distance": ""
+    "distance": "13.6"
   },
   {
     "name": "Dayat",
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3596347%2C106.7119961",
-    "distance": ""
+    "distance": "3.8"
   },
   {
     "name": "Abiem",
     "note": "",
-    "link": "https://www.google.com/maps/search/?api=1&query=-6.383938,106.7005675",
-    "distance": ""
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.384019, 106.703094",
+    "distance": "0.26"
   },
   {
     "name": "Chiak",
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.384916,106.6800669",
-    "distance": ""
+    "distance": "3"
   },
   {
     "name": "Ani",
     "note": "(Toko Telor GK)",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3877799,106.7318004",
-    "distance": ""
+    "distance": "9.9"
   },
   {
     "name": "Ternak Koh Andy",
-    "note": "(Andi)",
+    "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.387176, 106.706476",
-    "distance": ""
+    "distance": "0.85"
   }
 ]

@@ -119,7 +119,7 @@
     "imageUrl": ""
   },
   {
-    "name": "Berkah",
+    "name": "Berkah Rawakalong",
     "note": "(Toko Berkah)",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.363014%2C106.715990",
     "distance": "4",
@@ -371,10 +371,24 @@
     "imageUrl": ""
   },
   {
-    "name": "Berkah Pasar Parung",
+    "name": "Berkah Telur Pasar Parung",
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.423211, 106.730432",
     "distance": "6.2",
+    "imageUrl": "https://i.imgur.com/DosFK4f.jpeg"
+  },
+  {
+    "name": "Arjuna Plastik",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3853359,106.6707726",
+    "distance": "3.8",
     "imageUrl": ""
-  }
+  },
+   {
+    "name": "Vilka GIS",
+    "note": "(Filka)",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3972031,106.6917423",
+    "distance": "5.3",
+    "imageUrl": ""
+   
 ]

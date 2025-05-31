@@ -384,11 +384,39 @@
     "distance": "3.8",
     "imageUrl": ""
   },
-   {
+  {
     "name": "Vilka GIS",
     "note": "(Filka)",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3972031,106.6917423",
     "distance": "5.3",
     "imageUrl": ""
-   }
+  },
+  {
+    "name": "Usaha Baru",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.397136,106.69949",
+    "distance": "2.6",
+    "imageUrl": ""
+  },
+  {
+    "name": "Madura Wings",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3831416,106.7041502",
+    "distance": "0.2",
+    "imageUrl": ""
+  },
+  {
+    "name": "Fitrajaya Curug",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.392665,106.7219453",
+    "distance": "3.5",
+    "imageUrl": ""
+  },
+  {
+    "name": "Rohyati GIS",
+    "note": "K2 No. 10",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3907993,106.6874924",
+    "distance": "3.5",
+    "imageUrl": ""
+  }
 ]

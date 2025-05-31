@@ -419,11 +419,25 @@
     "distance": "3.5",
     "imageUrl": ""
   },
-    {
+  {
     "name": "Lubis Jaya",
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3935532,106.7049992",
     "distance": "1.6",
     "imageUrl": "https://i.imgur.com/SvNDcWQ.jpeg"
-  }
+  },
+  {
+    "name": "Burung Biru",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3845268,106.6927231",
+    "distance": "2.5",
+    "imageUrl": ""
+  },
+  {
+    "name": "Ratna",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.4048678,106.7425847",
+    "distance": "8.2",
+    "imageUrl": ""
+  },
 ]

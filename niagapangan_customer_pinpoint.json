@@ -9,7 +9,7 @@
     {
     "name": "Amir Lubis",
     "note": "",
-    "link": "https://www.google.com/maps/search/?api=1&query=-6.3279486,106.6973162",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3278941,106.6978312",
     "distance": "6.1",
     "imageUrl": ""
   },
@@ -39,6 +39,41 @@
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3626948,106.7262164",
     "distance": "5.4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Faye",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3478078,106.7262941",
+    "distance": "2.9",
+    "imageUrl": ""
+  },
+  {
+    "name": "Bento Kopi",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3477759,106.7267871",
+    "distance": "2.9",
+    "imageUrl": ""
+  },
+  {
+    "name": "Toko Lubis Serua",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.321543,106.720575",
+    "distance": "1.6",
+    "imageUrl": ""
+  },
+  {
+    "name": "Toko Bahari",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3069477,106.6840583",
+    "distance": "7",
+    "imageUrl": ""
+  },
+  {
+    "name": "Jaya Sejahtera",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3462771,106.6918475",
+    "distance": "5.8",
     "imageUrl": ""
   },
 ]

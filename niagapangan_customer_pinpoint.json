@@ -49,20 +49,6 @@
     "imageUrl": ""
   },
   {
-    "name": "Diah 1",
-    "note": "Di seberang masjid",
-    "link": "https://www.google.com/maps/search/?api=1&query=-6.386287%2C106.698176",
-    "distance": "2",
-    "imageUrl": ""
-  },
-  {
-    "name": "Diah 2",
-    "note": "",
-    "link": "https://www.google.com/maps/search/?api=1&query=-6.384752%2C106.696812",
-    "distance": "1.7",
-    "imageUrl": ""
-  },
-  {
     "name": "Anggun",
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.379747%2C106.717758",
@@ -203,10 +189,10 @@
     "imageUrl": ""
   },
   {
-    "name": "Niaga Pangan",
+    "name": "Hasri Jaya",
     "note": "",
-    "link": "https://www.google.com/maps/search/?api=1&query=-6.330015%2C106.725294",
-    "distance": "9.1",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3822719,106.7034494",
+    "distance": "9.4",
     "imageUrl": ""
   },
   {
@@ -343,13 +329,6 @@
     "imageUrl": ""
   },
   {
-    "name": "Abiem",
-    "note": "",
-    "link": "https://www.google.com/maps/search/?api=1&query=-6.384019, 106.703094",
-    "distance": "0.26",
-    "imageUrl": ""
-  },
-  {
     "name": "Chiak",
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.384916,106.6800669",
@@ -361,13 +340,6 @@
     "note": "(Toko Telor GK)",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3877799,106.7318004",
     "distance": "9.9",
-    "imageUrl": ""
-  },
-  {
-    "name": "Ternak Koh Andy",
-    "note": "",
-    "link": "https://www.google.com/maps/search/?api=1&query=-6.387176, 106.706476",
-    "distance": "0.85",
     "imageUrl": ""
   },
   {
@@ -396,13 +368,6 @@
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.397136,106.69949",
     "distance": "2.6",
-    "imageUrl": ""
-  },
-  {
-    "name": "Madura Wings",
-    "note": "",
-    "link": "https://www.google.com/maps/search/?api=1&query=-6.3831416,106.7041502",
-    "distance": "0.2",
     "imageUrl": ""
   },
   {
@@ -438,6 +403,13 @@
     "note": "",
     "link": "https://www.google.com/maps/search/?api=1&query=-6.4048678,106.7425847",
     "distance": "8.2",
+    "imageUrl": ""
+  },
+    {
+    "name": "Amir Lubis",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3279486,106.6973162",
+    "distance": "6.1",
     "imageUrl": ""
   }
 ]

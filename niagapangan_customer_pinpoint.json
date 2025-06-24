@@ -12,5 +12,33 @@
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3279486,106.6973162",
     "distance": "6.1",
     "imageUrl": ""
-  }
+  },
+  {
+    "name": "Melody",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3221584,106.7025487",
+    "distance": "5.4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Bang Ridwan Jalan Salak",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3518949,106.7204018",
+    "distance": "3.5",
+    "imageUrl": ""
+  },
+  {
+    "name": "Toko Ira",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3626948,106.7262164",
+    "distance": "5.4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Toko Indra",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3626948,106.7262164",
+    "distance": "5.4",
+    "imageUrl": ""
+  },
 ]

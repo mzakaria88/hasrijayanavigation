@@ -16,7 +16,7 @@
   {
     "name": "Melody",
     "note": "",
-    "link": "https://www.google.com/maps/search/?api=1&query=-6.3221584,106.7025487",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3224585,106.6998563",
     "distance": "5.4",
     "imageUrl": ""
   },
@@ -75,5 +75,20 @@
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3462771,106.6918475",
     "distance": "5.8",
     "imageUrl": ""
+  },
+  {
+    "name": "Laris Jaya",
+    "note": "Perumahan Permata Depan Indomaret",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3514726,106.7087447",
+    "distance": "4.4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Arifin",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3673429,106.7214281",
+    "distance": "5.5",
+    "imageUrl": ""
   }
+  
 ]

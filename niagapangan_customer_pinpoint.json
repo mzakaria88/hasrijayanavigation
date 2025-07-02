@@ -89,6 +89,40 @@
     "link": "https://www.google.com/maps/search/?api=1&query=-6.3673429,106.7214281",
     "distance": "5.5",
     "imageUrl": ""
+  },
+  {
+    "name": "Cak Hendra",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3484699,106.7144975",
+    "distance": "3.3",
+    "imageUrl": ""
+  },
+  {
+    "name": "Makmur Jaya 9",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.325167,106.718015",
+    "distance": "2.1",
+    "imageUrl": ""
+  },
+  {
+    "name": "Makmur Jaya 19",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.277744,106.668844",
+    "distance": "2.1",
+    "imageUrl": "15.1"
+  },
+  {
+    "name": "Sulaiman",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.3766976,106.7229202",
+    "distance": "7.1",
+    "imageUrl": ""
+  },
+  {
+    "name": "Fadil Plastik",
+    "note": "",
+    "link": "https://www.google.com/maps/search/?api=1&query=-6.335848,106.727345",
+    "distance": "0.75",
+    "imageUrl": ""
   }
-  
 ]
